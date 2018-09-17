@@ -1,5 +1,5 @@
 _repo: That-Reminds-Me-A-Collection-of-Tales-Worth-Telling_52107
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Anonymous
@@ -9,7 +9,12 @@ contributor:
     wikipedia:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
+covers:
+- cover_type: archival
+  image_path: 52107-h/images/img-cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52107#That-Reminds-Me-A-Collection-of-Tales-Worth-Telling
 gutenberg_issued: '2016-05-19'
 gutenberg_type: Text
 identifiers:
