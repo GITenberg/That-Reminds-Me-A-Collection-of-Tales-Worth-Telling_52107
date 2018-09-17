@@ -1,0 +1,27 @@
+_repo: That-Reminds-Me-A-Collection-of-Tales-Worth-Telling_52107
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2016-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52107'
+  lccn: 05036816
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American wit and humor'
+- !lcc 'PN'
+- GITenberg
+title: 'That Reminds Me: A Collection of Tales Worth Telling'
+url: http://www.gutenberg.org/ebooks/52107
